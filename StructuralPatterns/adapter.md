@@ -67,4 +67,4 @@ namespace Adapter
   }
 }
 ```
-This is [on GitHub](https://github.com/dtopalov/HQCode/blob/master/DesignPatterns/StructuralPatterns/adapter.md).
+This is [on GitHub](https://github.com/Brevering/Design_Patterns_2016/blob/master/StructuralPatterns/adapter.md).
